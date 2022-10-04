@@ -1,0 +1,25 @@
+clase 1 teorica: 
+Una organización es un grupo social formado por
+personas, tareas y administración, que interactúan en
+el marco de una estructura sistemática para cumplir
+con sus objetivos.
+La organización tiene objetivos, metas, recursos
+humanos, recursos materiales e información.
+La organización como sistema es MAYOR que la
+simple sumatoria de los individuos que la
+componen(SINERGIA).
+La cultura que comparten le da entidad propia y, a su
+vez, esa cultura define y sostiene los objetivos comunes
+que busca alcanzar.
+
+
+Resumen de la clase Practica
+git init: Iniciar un repositorio vacío en unas carpeta específica
+git status: Revisamos el estado de los archivos
+git add ‘nombre_de_archivo’: Añadir un archivo específico al área
+de preparación
+git add .: Añadir todos los archivos del directorio
+git commit –m “mensaje” :Confirmar los cambios realizados
+git log :Muestra el historial de confirmaciones
+git diff :Muestra los cambios con respecto a la última versión
+guardada en el repositorio
